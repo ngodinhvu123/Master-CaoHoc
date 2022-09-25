@@ -1,0 +1,6 @@
+*.pyc
+*~
+.*.swp
+*.swp
+.idea
+weather.nominal-filtered.arff
